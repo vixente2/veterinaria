@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E07BE71C-8704-4ECC-BF4E-B80760ADBED8}|ConexionDataBase.csproj|c:\\users\\carlo\\downloads\\estudiar para test\\conexiondatabase\\usuariosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07BE71C-8704-4ECC-BF4E-B80760ADBED8}|ConexionDataBase.csproj|solutionrelative:usuariosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07BE71C-8704-4ECC-BF4E-B80760ADBED8}|ConexionDataBase.csproj|c:\\users\\carlo\\downloads\\estudiar para test\\conexiondatabase\\clienteforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07BE71C-8704-4ECC-BF4E-B80760ADBED8}|ConexionDataBase.csproj|solutionrelative:clienteforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07BE71C-8704-4ECC-BF4E-B80760ADBED8}|ConexionDataBase.csproj|c:\\users\\carlo\\downloads\\estudiar para test\\conexiondatabase\\mascotaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07BE71C-8704-4ECC-BF4E-B80760ADBED8}|ConexionDataBase.csproj|solutionrelative:mascotaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07BE71C-8704-4ECC-BF4E-B80760ADBED8}|ConexionDataBase.csproj|c:\\users\\carlo\\downloads\\estudiar para test\\conexiondatabase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07BE71C-8704-4ECC-BF4E-B80760ADBED8}|ConexionDataBase.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07BE71C-8704-4ECC-BF4E-B80760ADBED8}|ConexionDataBase.csproj|C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E07BE71C-8704-4ECC-BF4E-B80760ADBED8}|ConexionDataBase.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07BE71C-8704-4ECC-BF4E-B80760ADBED8}|ConexionDataBase.csproj|C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\usuariosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E07BE71C-8704-4ECC-BF4E-B80760ADBED8}|ConexionDataBase.csproj|solutionrelative:usuariosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07BE71C-8704-4ECC-BF4E-B80760ADBED8}|ConexionDataBase.csproj|C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\mascotaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E07BE71C-8704-4ECC-BF4E-B80760ADBED8}|ConexionDataBase.csproj|solutionrelative:mascotaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07BE71C-8704-4ECC-BF4E-B80760ADBED8}|ConexionDataBase.csproj|C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\clienteforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E07BE71C-8704-4ECC-BF4E-B80760ADBED8}|ConexionDataBase.csproj|solutionrelative:clienteforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07BE71C-8704-4ECC-BF4E-B80760ADBED8}|ConexionDataBase.csproj|c:\\users\\carlo\\downloads\\estudiar para test\\conexiondatabase\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E07BE71C-8704-4ECC-BF4E-B80760ADBED8}|ConexionDataBase.csproj|solutionrelative:helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E07BE71C-8704-4ECC-BF4E-B80760ADBED8}|ConexionDataBase.csproj|C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\atencionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E07BE71C-8704-4ECC-BF4E-B80760ADBED8}|ConexionDataBase.csproj|solutionrelative:atencionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T23:01:15.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T23:01:13.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MascotaForm.cs",
+              "DocumentMoniker": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\MascotaForm.cs",
+              "RelativeDocumentMoniker": "MascotaForm.cs",
+              "ToolTip": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\MascotaForm.cs",
+              "RelativeToolTip": "MascotaForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T22:32:04.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\Helper.cs",
+              "RelativeDocumentMoniker": "Helper.cs",
+              "ToolTip": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\Helper.cs",
+              "RelativeToolTip": "Helper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T22:26:02.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteForms.cs",
+              "DocumentMoniker": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\ClienteForms.cs",
+              "RelativeDocumentMoniker": "ClienteForms.cs",
+              "ToolTip": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\ClienteForms.cs",
+              "RelativeToolTip": "ClienteForms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T22:24:12.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosForm.cs",
+              "DocumentMoniker": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\UsuariosForm.cs",
+              "RelativeDocumentMoniker": "UsuariosForm.cs",
+              "ToolTip": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\UsuariosForm.cs",
+              "RelativeToolTip": "UsuariosForm.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T22:31:48.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteForms.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\ClienteForms.cs",
+              "RelativeDocumentMoniker": "ClienteForms.cs",
+              "ToolTip": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\ClienteForms.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ClienteForms.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T22:23:44.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuariosForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\UsuariosForm.cs",
+              "RelativeDocumentMoniker": "UsuariosForm.cs",
+              "ToolTip": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\UsuariosForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UsuariosForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T22:23:47.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MascotaForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\MascotaForm.cs",
+              "RelativeDocumentMoniker": "MascotaForm.cs",
+              "ToolTip": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\MascotaForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MascotaForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T22:23:46.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AtencionForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\AtencionForm.cs",
+              "RelativeDocumentMoniker": "AtencionForm.cs",
+              "ToolTip": "C:\\Users\\Carlo\\Downloads\\Estudiar para test\\ConexionDataBase\\AtencionForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AtencionForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T22:23:43.573Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
